@@ -1,4 +1,4 @@
-# Argus Data
+# Argus Preloaded Bookmarks
 
 This repository hosts all the .rds files that are used as preloaded data in the [Argus package](https://github.com/JGCRI/argus). The following steps explain how to create an Argus Bookmark, upload it to this repo and then add it into Argus as a preloaded dataset:
 
