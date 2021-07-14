@@ -11,7 +11,7 @@ This repository hosts all the .rds files that are used as preloaded data in the 
 5. Update the [preloaded_data.R file in the Argus repo](https://github.com/JGCRI/argus/blob/main/R/preloaded_data.R) with an appropriate group, name and link to the new bookmark added in this repo and commit the changes. (Access needed to the Argus repo for this).
 6. Add the same group, name and link to the table below for record keeping.
 
-Next time Argus is loaded up the preloaded_data will include the new dataset ready for quick and easy viewing!
+7. Argus will now have to be updated and resintalled locally as well as on the server to reflect these changes.
 
 | group       | name |  link   |
 | ----------- | ----------- | ---------- |
