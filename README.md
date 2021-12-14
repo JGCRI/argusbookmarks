@@ -16,7 +16,7 @@ This repository hosts all the .rds files that are used as preloaded data in the 
 | group       | name |  link   |
 | ----------- | ----------- | ---------- |
 | examples      | exampleData      | https://github.com/JGCRI/argusdata/raw/main/argus_bookmark_exampleData.rds |
-| GCAM   | GCAMvX.X_branch_name        |   link_here       |
+| examples   | argus_example_EU      |   https://github.com/JGCRI/argusdata/raw/main/argus_example_EU.rds      |
 
 
 
